@@ -1,0 +1,30 @@
+.banner {
+    background: var(--azul-degrade);
+    color: var(--branco);
+    text-align: center;
+}
+
+.banner__titulo {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+.banner__pesquisa {
+    background-color: ____________;
+    border: 1px solid var(--branco);
+    color: var(--branco);
+    _______________: 24px;
+    padding: 1em;
+    width: 100%;
+}
+
+.banner__pesquisa::___________________ {
+    font-family: var(--fonte-principal);
+    font-size: 14px;
+    font-weight: 400;
+    ______________: center;
+    color: var(--branco);
+    _______________: url("../img/Lupa.svg") no-repeat;
+    background-position: 1em;
+}
